@@ -28,6 +28,7 @@
 
 ### Решение 2
 
+
 ![2-1](https://github.com/blackgult/hw13-02/blob/main/2-1.PNG)
 
 
