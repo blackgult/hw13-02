@@ -31,6 +31,16 @@
 
 ![2-1](https://github.com/blackgult/hw13-02/blob/main/2-1.PNG)
 
+![2-2](https://github.com/blackgult/hw13-02/blob/main/2-2.PNG)
+
+![2-3](https://github.com/blackgult/hw13-02/blob/main/2-3.PNG)
+
+![2-4](https://github.com/blackgult/hw13-02/blob/main/2-4.PNG)
+
+![2-5](https://github.com/blackgult/hw13-02/blob/main/2-5.PNG)
+
+![2-6](https://github.com/blackgult/hw13-02/blob/main/2-6.PNG)
+
 
 ## Дополнительные задания (со звёздочкой*)
 
